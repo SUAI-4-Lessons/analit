@@ -1,0 +1,18 @@
+# Комплексные числа
+
+<img class="right" src="diagrams/complex_geom.png" style="max-width: 50%">
+
+
+$ z = (a; b) $
+
+$ z = a + bi $
+
+а -- действительная часть комплексного числа
+
+$ i^2 = -1 $
+
+$ i^3 = -i $
+
+$ i^4 = 1 $
+
+$ i^5 = 5 $

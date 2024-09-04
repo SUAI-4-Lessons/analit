@@ -1,0 +1,12 @@
+[book]
+authors = ["Вася Панков"]
+language = "ru"
+multilingual = false
+src = "src"
+title = "Аналитическая геометрия и алгебра"
+
+[preprocessor.katex]
+after = ["links"]
+
+[output.html]
+smart-punctuation = true
